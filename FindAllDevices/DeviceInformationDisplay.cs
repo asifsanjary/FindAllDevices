@@ -1,14 +1,8 @@
-﻿// Copyright (c) Microsoft. All rights reserved.
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using Windows.Devices.Enumeration;
 using Windows.UI.Xaml.Media.Imaging;
-
-// NOTE: The following using statements are only needed in order to demonstrate many of the
-// different device selectors available from Windows Runtime APIs. You will only need to include
-// the namespace for the Windows Runtime API your actual scenario needs.
 
 namespace FindAllDevices
 {

@@ -120,7 +120,7 @@
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="DeviceWatcherHelper.cs" />
-    <Compile Include="DisplayHelper.cs" />
+    <Compile Include="DeviceInformationDisplay.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
